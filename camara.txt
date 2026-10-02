@@ -1,1 +1,1 @@
-Configuración inicial de la cámara para el reconocimiento facial.
+Validación incial de la camára.
